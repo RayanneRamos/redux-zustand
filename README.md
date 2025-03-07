@@ -22,7 +22,7 @@
 2. **Gerenciamento de estado global utilizando Zustand, explorando sua simplicidade e performance** 
 3. **Disponível para Android e iOS, garantindo que os conceitos possam ser aplicados tanto em web quanto em mobile**
 
-## 🧪 Technologies
+## 🧪 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
