@@ -16,6 +16,12 @@
 
 [React Redux Zustand](https://redux-zustand.vercel.app/) é o projeto desenvolvido durante o bootcamp ignite da [Rocketseat](https://www.rocketseat.com.br/) que foca nas tecnologias ReactJS, React Native e NodeJS. Consiste em aprender a utilizar a biblioteca Redux mais famosa para gerenciamento de estdos globais da aplicação e também aprender a utilizar biblioteca Zustand que é uma outra opção disponível no mercado para o uso.
 
+## 🌟 Funcionalidades
+
+1. **Gerenciamento de estado global utilizando Redux** 
+2. **Gerenciamento de estado global utilizando Zustand, explorando sua simplicidade e performance** 
+3. **Disponível para Android e iOS, garantindo que os conceitos possam ser aplicados tanto em web quanto em mobile**
+
 ## 🧪 Technologies
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
